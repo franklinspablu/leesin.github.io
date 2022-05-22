@@ -13,12 +13,12 @@ p, li {
     letter-spacing: 1px;
   }
 html {
-    background-color: #84878a;
+    background-color: #480A17;
   }
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #FF9500;
+    background-color: #C2B3AC;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
@@ -33,5 +33,5 @@ body {
   img {
     display: block;
     margin: 0 auto;
-    width: 600px;
+    width: 50rem;
   }
