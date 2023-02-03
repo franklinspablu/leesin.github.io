@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 h1 {
     font-size: 60px;
@@ -13,7 +13,7 @@ p, li {
     letter-spacing: 1px;
   }
 html {
-    background-color: #480A17;
+    background-color: #002b53;
   }
 body {
     width: 600px;
@@ -29,9 +29,14 @@ body {
     color: #00539F;
     text-shadow: 3px 3px 1px black;
   }
+  
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
 
   img {
     display: block;
     margin: 0 auto;
-    width: 50rem;
+    width: 25rem;
   }
